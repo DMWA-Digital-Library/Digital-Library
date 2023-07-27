@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="0 0 78 78" viewBox="0 0 78 78" height="78" width="78" xmlns="http://www.w3.org/2000/svg" data-type="ugc">
+    <g>
+        <g clip-path="url(#290b5f66-e6db-4f37-83c2-a5d3b3ee783d)">
+            <path fill="#E1F0F9" d="M78 39c0 21.54-17.46 39-39 39S0 60.54 0 39 17.46 0 39 0s39 17.46 39 39z"/>
+            <path fill="#30DDCE" d="M59 22v39H14V22h45z"/>
+            <path fill="#7D53F1" d="M38.508 47.914 58.462 9.08 9 33.136l29.508 14.778Z"/>
+            <path stroke-width=".145" stroke="#F32971" fill="#FF4F99" d="M73.01 50.01 58.378 22 45 50.01h28.01Z"/>
+            <path fill-opacity=".8" fill="#DF2A76" d="m70.083 48.129-4.598-8.78-5.644 8.78h10.242Z"/>
+            <path fill="#EC770C" d="M42 53.4c0 6.351-5.149 11.5-11.5 11.5S19 59.751 19 53.4s5.149-11.5 11.5-11.5S42 47.049 42 53.4z"/>
+            <mask height="24" width="24" y="41" x="18" maskUnits="userSpaceOnUse" style="mask-type:alpha" id="dd9db57c-94ce-45a2-9d98-e1ef4241184a" fill="none">
+                <path fill="#FDA452" d="M42 53.4c0 6.351-5.149 11.5-11.5 11.5S19 59.751 19 53.4s5.149-11.5 11.5-11.5S42 47.049 42 53.4z"/>
+            </mask>
+            <g mask="url(#dd9db57c-94ce-45a2-9d98-e1ef4241184a)">
+                <path fill="#FB9C44" d="M37.763 49.526c0 6.351-5.149 11.5-11.5 11.5s-11.5-5.149-11.5-11.5 5.149-11.5 11.5-11.5 11.5 5.149 11.5 11.5z"/>
+            </g>
+            <path fill="#FFB46F" d="M26.906 50.104c-1.022 1.253-2.505 1.735-3.31 1.077-.807-.658-.632-2.207.39-3.46 1.022-1.252 2.505-1.734 3.31-1.076.807.658.632 2.207-.39 3.46z"/>
+        </g>
+        <defs fill="none">
+            <clipPath id="290b5f66-e6db-4f37-83c2-a5d3b3ee783d">
+                <path fill="#ffffff" d="M78 39c0 21.54-17.46 39-39 39S0 60.54 0 39 17.46 0 39 0s39 17.46 39 39z"/>
+            </clipPath>
+        </defs>
+    </g>
+</svg>
